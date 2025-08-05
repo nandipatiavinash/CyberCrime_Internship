@@ -35,8 +35,8 @@ I completed a 1-month internship at **Cyber Crime Police Station, Vijayawada** f
 - **Department**: Andhra Pradesh Police
 
 ## Contact
-- Email: [your email]
-- LinkedIn: [your profile]
+- Email: nandipatiavinash19@gmail.com
+- LinkedIn: https://www.linkedin.com/in/avinash-nandipati/
 
 ---
 *This internship gave me real-world experience in cybercrime investigation and strengthened my interest in cybersecurity.*
