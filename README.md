@@ -11,8 +11,8 @@ I completed a 1-month internship at **Cyber Crime Police Station, Vijayawada** f
 - How criminals target victims
 
 ## Files in This Repository
-- `internship-report.pdf` - My complete 13-page internship report
-- `certificate.pdf` - Official completion certificate
+- `/cybercrime-investigation-internship-report.pdf` - My complete 13-page internship report
+- `Internship-Completion-Certificate.pdf` - Official completion certificate
 - `README.md` - This file
 
 ## Key Takeaways
